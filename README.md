@@ -3,7 +3,7 @@ Completely depleted FOREX information.
 
 "3.3000!" market history ~30 years.
 
--0.7 13.64-14.70 in 1.1 range.
+-0.7 13.64-14.70 in 1.1 range. 9th October.
 
 GBP, USD.
 
