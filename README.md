@@ -170,3 +170,5 @@ Highest Value Currencies
 
 Then you have the shipments.
 7:58 AM
+
+CHFJPY totally sells out AUDCHF totally buys out.
